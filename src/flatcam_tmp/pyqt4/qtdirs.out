@@ -1,0 +1,12 @@
+/usr
+/usr/include/x86_64-linux-gnu/qt5
+/usr/lib/x86_64-linux-gnu
+/usr/lib/qt5/bin
+/usr/share/qt5
+/usr/lib/x86_64-linux-gnu/qt5
+/usr/lib/x86_64-linux-gnu/qt5/plugins
+330760
+512
+
+shared
+PyQt_NoPrintRangeBug
